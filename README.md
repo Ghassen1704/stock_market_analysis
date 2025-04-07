@@ -1,4 +1,4 @@
-# 5️⃣ Real-time Stock Market Analytics Platform
+# Real-time Stock Market Analytics Platform
 
 A real-time, AI-powered stock market analytics platform showcasing modern backend architecture, data streaming, and predictive modeling.
 
